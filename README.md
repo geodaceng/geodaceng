@@ -1,10 +1,6 @@
-<img src="https://github.com/user-attachments/assets/57425265-992e-450e-9973-781397f32bd8" 
-       alt="Logo da empresa" 
-       style="width: 300px; height: auto; align=right" />
-
+# DAC Engenharia <img align="right" height="46" src="https://github.com/user-attachments/assets/57425265-992e-450e-9973-781397f32bd8"/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 
 <p align="left"> 
   A DAC Engenharia é uma empresa sediada no sul de Minas Gerais, em Itajubá. Possui corpo técnico multidisciplinar, com foco no desenvolvimento de projetos de infraestrutura, desenvolvimento urbano, eficiência energética e geração de energia e meio ambiente e recursos hídricos.
