@@ -1,4 +1,4 @@
-# DAC Engenharia <img align="right" height="46" src="https://github.com/user-attachments/assets/57425265-992e-450e-9973-781397f32bd8"/>
+# DAC Engenharia <img align="right" height="35" src="https://github.com/user-attachments/assets/57425265-992e-450e-9973-781397f32bd8"/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
