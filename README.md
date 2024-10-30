@@ -80,7 +80,7 @@ Agradecemos às seguintes pessoas que contribuem para a empresa:
     </td>
      <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="" width="100px;" alt="Igor"/><br>
+        <img src="https://avatars.githubusercontent.com/u/91032815" width="100px;" alt="Igor"/><br>
         <sub>
           <b>Igor</b>
         </sub>
