@@ -48,7 +48,7 @@ Agradecemos às seguintes pessoas que contribuem para a empresa:
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="" width="100px;" alt="Anna"/><br>
+        <img src="https://avatars.githubusercontent.com/u/151260429" width="100px;" alt="Anna"/><br>
         <sub>
           <b>Anna</b>
         </sub>
@@ -56,7 +56,7 @@ Agradecemos às seguintes pessoas que contribuem para a empresa:
     </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="" width="100px;" alt="Eduardo"/><br>
+        <img src="https://avatars.githubusercontent.com/u/96221715" width="100px;" alt="Eduardo"/><br>
         <sub>
           <b>Eduardo</b>
         </sub>
@@ -78,9 +78,17 @@ Agradecemos às seguintes pessoas que contribuem para a empresa:
         </sub>
       </a>
     </td>
+     <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="" width="100px;" alt="Igor"/><br>
+        <sub>
+          <b>Igor</b>
+        </sub>
+      </a>
+    </td>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="" width="100px;" alt="Henrique"/><br>
+        <img src="https://avatars.githubusercontent.com/u/130799698" width="100px;" alt="Henrique"/><br>
         <sub>
           <b>Henrique</b>
         </sub>
@@ -92,4 +100,3 @@ Agradecemos às seguintes pessoas que contribuem para a empresa:
 ## 😄 Sobre nós
 
 Quer conhecer mais? Clique [AQUI](CONTRIBUTING.md) e nos conheceça melhor.
-
